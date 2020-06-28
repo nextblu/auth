@@ -1,2 +1,2 @@
 # auth
-Internla auth system
+Internal auth system
